@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:summary="My preference"
+    android:title="My preference" >
+
+    <PreferenceCategory
+        android:title="@string/personal_setting">
+        <ListPreference
+            android:dialogTitle="@string/dialogTitle"
+            android:entries="@array/language_sort_options"
+            android:entryValues="@array/language_sort_options_values"
+            android:key="language_setting"
+            android:summary="@string/language_choose"
+            android:title="@string/select_language" 
+            android:defaultValue="0"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

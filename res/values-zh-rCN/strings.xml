@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">语言设置测试</string>
+    <string name="hello_world">中文模式，你可以在“设置”中选择其他语言\n\n“菜单”->“设置”->“语言设置”</string>
+    <string name="menu_settings">设置</string>
+    <string name="title_activity_main">主程序</string>
+    <string name="button_en">中文版</string>
+    
+    <string name="select_language">语言设置</string>
+    <string name="language_choose">选择该应用的语言</string>
+    <string name="dialogTitle">请选择语言</string>
+    
+    <string name="personal_setting">个人</string>
+
+</resources>
